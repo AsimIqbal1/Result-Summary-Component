@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Result-Summary-Component/static/css/main.c9b65793.css",
+    "main.js": "/Result-Summary-Component/static/js/main.0bfe570f.js",
+    "static/media/HankenGrotesk-Medium.ttf": "/Result-Summary-Component/static/media/HankenGrotesk-Medium.be74364d28048593121d.ttf",
+    "static/media/HankenGrotesk-SemiBold.ttf": "/Result-Summary-Component/static/media/HankenGrotesk-SemiBold.70c6384c92644957849a.ttf",
+    "static/media/HankenGrotesk-Bold.ttf": "/Result-Summary-Component/static/media/HankenGrotesk-Bold.a3c57b0d7f757ba9e319.ttf",
+    "static/media/icon-memory.svg": "/Result-Summary-Component/static/media/icon-memory.22a9e0501e58960f3c349cd96fcf108f.svg",
+    "index.html": "/Result-Summary-Component/index.html",
+    "static/media/icon-visual.svg": "/Result-Summary-Component/static/media/icon-visual.61fc2697d5094b6e396276b1a1597c86.svg",
+    "static/media/icon-verbal.svg": "/Result-Summary-Component/static/media/icon-verbal.cc1204a0b0559da591a3ea6e99c5cf50.svg",
+    "static/media/icon-reaction.svg": "/Result-Summary-Component/static/media/icon-reaction.0c1d6b98b4559ba72276d9ceda14692d.svg",
+    "main.c9b65793.css.map": "/Result-Summary-Component/static/css/main.c9b65793.css.map",
+    "main.0bfe570f.js.map": "/Result-Summary-Component/static/js/main.0bfe570f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b65793.css",
+    "static/js/main.0bfe570f.js"
+  ]
+}
