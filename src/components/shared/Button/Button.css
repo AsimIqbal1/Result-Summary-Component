@@ -1,0 +1,18 @@
+.button {
+    border: 0;
+    height: 13%;
+    min-height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dardGrayBlue);
+    border-radius: 32px;
+    color: var(--white);
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: -webkit-linear-gradient(top, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
